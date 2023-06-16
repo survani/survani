@@ -40,7 +40,7 @@ Excited to learn more on TypeScript.
 </td>
 <td valign="top" width="50%">
 
-#### 🤾‍♂️ <a href="https://tw93.fun" target="_blank">Frameworks</a>
+#### 🤾‍♂️ <a href="" target="_blank">Frameworks</a>
 
 <!-- blog starts -->
 * NextJS
