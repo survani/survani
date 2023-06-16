@@ -17,7 +17,7 @@ Excited to learn more on TypeScript.
 </td>
 <td valign="top" width="50%">
 
-#### 🏋️‍♀️ <a href="https://github.com/tw93/tw93/blob/master/releases.md" target="_blank">Pojects</a>
+#### 🏋️‍♀️ <a href="" target="_blank">Pojects</a>
 
 <!-- recent_releases starts -->
   <li> TruthBombSocial </li>
@@ -30,7 +30,7 @@ Excited to learn more on TypeScript.
 <tr>
 <td valign="top" width="50%">
 
-#### 🤾‍♂️ <a href="https://tw93.fun" target="_blank">Programming Languages</a>
+#### 🤾‍♂️ <a href="" target="_blank">Programming Languages</a>
 
 <!-- blog starts -->
 * JavaScript
